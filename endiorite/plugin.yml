@@ -1,0 +1,7 @@
+---
+name: Endiorite
+version: 1.0.0
+main: T2N\endiorite\Main
+author: T2NLeSexy
+api: 4.0.0
+...
